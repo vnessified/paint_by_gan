@@ -6,4 +6,4 @@ Implementation of a binary classification convolutional neural network (CNN) tha
 
 - [Code](code)
 - [Writeup](report/DataScienceMScPaintGAN.pdf)
-- [Presentation](presentation)
+- [Presentation](presentation/PaintByGANPres.pdf)
